@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dave Galloway       dgalloway2@cox.net       Twitter Sucks!!!
 
 # THANKS
 

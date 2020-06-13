@@ -8,8 +8,9 @@
 # THANKS
 
     All the lucky people out there!
+	Woot!!  Woot!!
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3, JavaScript
     jQuery, Modernizr
